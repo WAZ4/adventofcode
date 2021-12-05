@@ -1,0 +1,2 @@
+
+            flagLetra = 0;
